@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+*.log
+/data/
+/tests/
+.ruff_cache/
+.obsidian/

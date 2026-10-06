@@ -1,0 +1,7 @@
+name: astrbot_plugin_moegirl
+display_name: 萌娘百科
+desc: 
+version: 1.0.0
+author: wqxzqhqq
+repo: https://github.com/wqxzqhqq/astrbot_plugin_moegirl
+astrbot_version: ">=4.26.0"
